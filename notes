@@ -1,0 +1,19 @@
+// Rendering
+// it perform server side or client side  rendering
+// client side rendering means rendering which happpens on client side
+// when a user requests a webpage the server sends a basic html documentin js code the browser then downloads and exeutes the js code which leads to the rendering of the components and finally display of the website
+
+
+
+// server side rensering
+// it involves rendering the webpage on the server before transmiitng it to the client device
+// when a user requests a page the server process the request and renders the component on the server side the server then sends back the fully rendered html file to the client side enabling immediate display
+
+// SEO - search engine optimization
+// SEO stands for Search Engine Optimization, and it's the process of helping search engines understand your content so that users can find your site and decide to visit i
+// through next js we can send pre-rendered code directly to the client
+// this enables easy crawling ,indexing leading to improve seo
+
+// seo is crucial for optimizing a website visibility and ranking in search engine results
+
+// next js used file based directory system
