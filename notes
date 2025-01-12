@@ -17,3 +17,8 @@
 // seo is crucial for optimizing a website visibility and ranking in search engine results
 
 // next js used file based directory system
+
+Data fetching
+1. Server-side rendering(SSR)-> it means dynamic server rendered data it is fetched fresh on each request with SSR each request to the server triggers a new rendering cycle and data fetch ensuring that the content is always up to date
+2. Static Side Generation-> by default next js static site generation , it is ideal for those who do not change frequently such as blog posts
+#.Incremental Static Generation (ISR)
